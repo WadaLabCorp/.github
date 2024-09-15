@@ -1,3 +1,5 @@
+**以下該当しない部分は削除可能**
+
 ### 関連Issue (Related Issue)
 - Closes #
 - Related to #
