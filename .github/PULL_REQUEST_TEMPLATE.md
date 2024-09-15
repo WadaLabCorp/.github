@@ -1,12 +1,3 @@
----
-name: 🚀 Pull Request
-about: コードの変更や新機能の追加などのためのPull Requestはこちらから
-title: "[PR] "
-labels: ''
-assignees: ''
-
----
-
 ### 関連Issue (Related Issue)
 - Closes #
 - Related to #
